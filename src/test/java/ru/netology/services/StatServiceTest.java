@@ -53,5 +53,6 @@ public class StatServiceTest {
 
         Assertions.assertEquals(5, amount);
     }
+// test comment
 
 }
